@@ -7,8 +7,8 @@ sites:
     url: https://www.taiosolve.xyz
   - name: Linaccess
     url: https://linaccess.za.net
-  - name: ClientZone
-    url: https://clientzone.taiosolve.xyz
+  - name: K8S Earth
+    url: https://k8s.earth
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
