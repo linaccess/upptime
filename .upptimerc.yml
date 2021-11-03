@@ -6,7 +6,7 @@ sites:
   - name: Taiosolve
     url: https://www.taiosolve.xyz
   - name: Linaccess
-    url: https://linaccess.za.net
+    url: http://linaccess.za.net
   - name: K8S Earth
     url: https://k8s.earth
   - name: Automanage
