@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1210,
-    "timeDay": 1210,
-    "timeWeek": 1210,
-    "timeMonth": 1210,
-    "timeYear": 1210,
+    "time": 1045,
+    "timeDay": 1045,
+    "timeWeek": 1045,
+    "timeMonth": 1045,
+    "timeYear": 1045,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/linaccess.za.net",
     "slug": "linaccess",
     "status": "down",
-    "uptime": "14.24%",
-    "uptimeDay": "14.24%",
-    "uptimeWeek": "14.24%",
-    "uptimeMonth": "14.24%",
-    "uptimeYear": "14.24%",
+    "uptime": "3.91%",
+    "uptimeDay": "3.91%",
+    "uptimeWeek": "3.91%",
+    "uptimeMonth": "3.91%",
+    "uptimeYear": "3.91%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-03": 9
+      "2021-11-03": 37
     }
   },
   {
@@ -48,11 +48,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 302,
-    "timeDay": 302,
-    "timeWeek": 302,
-    "timeMonth": 302,
-    "timeYear": 302,
+    "time": 407,
+    "timeDay": 407,
+    "timeWeek": 407,
+    "timeMonth": 407,
+    "timeYear": 407,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Automanage",
+    "url": "http://automanage.co.za",
+    "icon": "https://favicons.githubusercontent.com/automanage.co.za",
+    "slug": "automanage",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1151,
+    "timeDay": 1151,
+    "timeWeek": 1151,
+    "timeMonth": 1151,
+    "timeYear": 1151,
     "dailyMinutesDown": {}
   }
 ]
