@@ -40,19 +40,19 @@
     "url": "https://k8s.earth",
     "icon": "https://favicons.githubusercontent.com/k8s.earth",
     "slug": "k8-s-earth",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 338,
-    "timeDay": 255,
-    "timeWeek": 319,
-    "timeMonth": 338,
-    "timeYear": 338,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 326,
+    "timeDay": 175,
+    "timeWeek": 294,
+    "timeMonth": 326,
+    "timeYear": 326,
     "dailyMinutesDown": {
-      "2021-11-16": 0
+      "2021-11-16": 6
     }
   },
   {
