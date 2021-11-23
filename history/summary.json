@@ -22,9 +22,9 @@
     "url": "http://linaccess.za.net",
     "icon": "https://favicons.githubusercontent.com/linaccess.za.net",
     "slug": "linaccess",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 394,
     "timeMonth": 357,
     "timeYear": 357,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-23": 0
+    }
   },
   {
     "name": "K8S Earth",
