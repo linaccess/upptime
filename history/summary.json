@@ -22,19 +22,19 @@
     "url": "http://linaccess.za.net",
     "icon": "https://favicons.githubusercontent.com/linaccess.za.net",
     "slug": "linaccess",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "98.51%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 358,
-    "timeDay": 330,
-    "timeWeek": 376,
-    "timeMonth": 358,
-    "timeYear": 358,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "97.80%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 352,
+    "timeDay": 277,
+    "timeWeek": 356,
+    "timeMonth": 352,
+    "timeYear": 352,
     "dailyMinutesDown": {
-      "2021-11-25": 22
+      "2021-11-25": 32
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://k8s.earth",
     "icon": "https://favicons.githubusercontent.com/k8s.earth",
     "slug": "k8-s-earth",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 340,
-    "timeDay": 444,
-    "timeWeek": 372,
-    "timeMonth": 340,
-    "timeYear": 340,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 337,
+    "timeDay": 393,
+    "timeWeek": 359,
+    "timeMonth": 337,
+    "timeYear": 337,
     "dailyMinutesDown": {
-      "2021-11-25": 0
+      "2021-11-25": 10
     }
   },
   {
