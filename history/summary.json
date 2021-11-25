@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/linaccess.za.net",
     "slug": "linaccess",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 349,
     "timeDay": 37,
     "timeWeek": 345,
     "timeMonth": 349,
     "timeYear": 349,
     "dailyMinutesDown": {
-      "2021-11-25": 1
+      "2021-11-25": 7
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://k8s.earth",
     "icon": "https://favicons.githubusercontent.com/k8s.earth",
     "slug": "k8-s-earth",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 323,
-    "timeDay": 100,
-    "timeWeek": 302,
-    "timeMonth": 323,
-    "timeYear": 323,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 336,
+    "timeDay": 431,
+    "timeWeek": 359,
+    "timeMonth": 336,
+    "timeYear": 336,
     "dailyMinutesDown": {
-      "2021-11-25": 0
+      "2021-11-25": 6
     }
   },
   {
