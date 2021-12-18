@@ -22,9 +22,9 @@
     "url": "http://linaccess.za.net",
     "icon": "https://favicons.githubusercontent.com/linaccess.za.net",
     "slug": "linaccess",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
@@ -34,6 +34,7 @@
     "timeMonth": 326,
     "timeYear": 335,
     "dailyMinutesDown": {
+      "2021-12-18": 0,
       "2021-11-25": 21
     }
   },
@@ -42,9 +43,9 @@
     "url": "https://k8s.earth",
     "icon": "https://favicons.githubusercontent.com/k8s.earth",
     "slug": "k8-s-earth",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +54,9 @@
     "timeWeek": 192,
     "timeMonth": 266,
     "timeYear": 292,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-18": 0
+    }
   },
   {
     "name": "Automanage",
