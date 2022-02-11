@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/linaccess.za.net",
     "slug": "linaccess",
     "status": "up",
-    "uptime": "97.20%",
+    "uptime": "97.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.20%",
+    "uptimeYear": "97.21%",
     "time": 273,
     "timeDay": 447,
     "timeWeek": 216,
@@ -70,9 +70,9 @@
     "url": "http://automanage.co.za",
     "icon": "https://favicons.githubusercontent.com/automanage.co.za",
     "slug": "automanage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -82,6 +82,7 @@
     "timeMonth": 1483,
     "timeYear": 1492,
     "dailyMinutesDown": {
+      "2022-02-11": 0,
       "2022-01-06": 15
     }
   }
