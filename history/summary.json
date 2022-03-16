@@ -50,9 +50,9 @@
     "slug": "k8-s-earth",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 235,
     "timeDay": 193,
@@ -60,7 +60,7 @@
     "timeMonth": 182,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2022-03-16": 0,
+      "2022-03-16": 5,
       "2021-12-30": 24,
       "2021-12-26": 16,
       "2021-12-25": 20
