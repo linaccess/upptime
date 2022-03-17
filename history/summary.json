@@ -4,9 +4,9 @@
     "url": "https://www.taiosolve.xyz",
     "icon": "https://favicons.githubusercontent.com/www.taiosolve.xyz",
     "slug": "taiosolve",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 961,
     "timeMonth": 967,
     "timeYear": 1026,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-17": 0
+    }
   },
   {
     "name": "Linaccess",
@@ -50,12 +52,12 @@
     "slug": "k8-s-earth",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "93.60%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.04%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.92%",
     "time": 239,
-    "timeDay": 612,
+    "timeDay": 333,
     "timeWeek": 241,
     "timeMonth": 201,
     "timeYear": 239,
