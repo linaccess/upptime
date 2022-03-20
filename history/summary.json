@@ -4,11 +4,11 @@
     "url": "https://www.taiosolve.xyz",
     "icon": "https://favicons.githubusercontent.com/www.taiosolve.xyz",
     "slug": "taiosolve",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "46.04%",
-    "uptimeWeek": "92.29%",
-    "uptimeMonth": "98.23%",
+    "uptimeDay": "46.42%",
+    "uptimeWeek": "92.35%",
+    "uptimeMonth": "98.24%",
     "uptimeYear": "99.61%",
     "time": 1008,
     "timeDay": 844,
@@ -16,7 +16,7 @@
     "timeMonth": 927,
     "timeYear": 1008,
     "dailyMinutesDown": {
-      "2022-03-20": 719,
+      "2022-03-20": 713,
       "2022-03-19": 59
     }
   },
