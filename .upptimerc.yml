@@ -11,6 +11,8 @@ sites:
     url: https://CtrlTilde.com
   - name: Automanage
     url: http://automanage.co.za
+  - name: Cleanpay
+    url: https://cosmo.tech
   
 
 status-website:
