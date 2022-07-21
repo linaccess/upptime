@@ -106,19 +106,19 @@
     "url": "https://cosmo.tech",
     "icon": "https://favicons.githubusercontent.com/cosmo.tech",
     "slug": "cleanpay",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 469,
-    "timeDay": 443,
-    "timeWeek": 461,
-    "timeMonth": 460,
+    "timeDay": 469,
+    "timeWeek": 465,
+    "timeMonth": 462,
     "timeYear": 469,
     "dailyMinutesDown": {
-      "2022-07-21": 0
+      "2022-07-21": 18
     }
   }
 ]
