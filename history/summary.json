@@ -28,18 +28,18 @@
     "icon": "https://favicons.githubusercontent.com/linaccess.za.net",
     "slug": "linaccess",
     "status": "down",
-    "uptime": "96.07%",
+    "uptime": "95.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "68.85%",
-    "uptimeYear": "96.07%",
+    "uptimeMonth": "67.77%",
+    "uptimeYear": "95.97%",
     "time": 342,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 438,
     "timeYear": 342,
     "dailyMinutesDown": {
-      "2022-09-14": 66,
+      "2022-09-14": 540,
       "2022-09-13": 1440,
       "2022-09-12": 1440,
       "2022-09-11": 1440,
@@ -117,9 +117,9 @@
     "url": "https://cosmo.tech",
     "icon": "https://favicons.githubusercontent.com/cosmo.tech",
     "slug": "cleanpay",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -129,6 +129,7 @@
     "timeMonth": 464,
     "timeYear": 466,
     "dailyMinutesDown": {
+      "2022-09-14": 0,
       "2022-07-21": 18
     }
   }
