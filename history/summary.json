@@ -159,19 +159,19 @@
     "url": "https://polarlotto.com",
     "icon": "https://icons.duckduckgo.com/ip3/polarlotto.com.ico",
     "slug": "polar-lotto",
-    "status": "down",
-    "uptime": "93.56%",
-    "uptimeDay": "93.56%",
-    "uptimeWeek": "93.56%",
-    "uptimeMonth": "93.56%",
-    "uptimeYear": "93.56%",
-    "time": 3718,
-    "timeDay": 3718,
-    "timeWeek": 3718,
-    "timeMonth": 3718,
-    "timeYear": 3718,
+    "status": "up",
+    "uptime": "92.16%",
+    "uptimeDay": "92.16%",
+    "uptimeWeek": "92.16%",
+    "uptimeMonth": "92.16%",
+    "uptimeYear": "92.16%",
+    "time": 3396,
+    "timeDay": 3396,
+    "timeWeek": 3396,
+    "timeMonth": 3396,
+    "timeYear": 3396,
     "dailyMinutesDown": {
-      "2023-05-02": 28
+      "2023-05-02": 35
     }
   }
 ]
