@@ -13,6 +13,8 @@ sites:
     url: http://automanage.co.za
   - name: Cleanpay
     url: https://cosmo.tech
+  - name: PolarLotto
+    url: https://polarlotto.com
   
 
 status-website:
