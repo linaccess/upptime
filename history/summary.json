@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 971,
-    "timeDay": 1172,
-    "timeWeek": 999,
-    "timeMonth": 934,
+    "time": 970,
+    "timeDay": 1135,
+    "timeWeek": 1001,
+    "timeMonth": 940,
     "timeYear": 968,
     "dailyMinutesDown": {
       "2023-01-25": 22,
@@ -32,10 +32,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.04%",
-    "time": 775,
-    "timeDay": 1375,
-    "timeWeek": 1405,
-    "timeMonth": 1282,
+    "time": 778,
+    "timeDay": 1521,
+    "timeWeek": 1378,
+    "timeMonth": 1290,
     "timeYear": 982,
     "dailyMinutesDown": {
       "2022-09-29": 1327,
@@ -65,8 +65,7 @@
       "2022-09-05": 1440,
       "2022-09-04": 619,
       "2022-07-03": 21,
-      "2022-05-24": 25,
-      "2022-05-04": 56
+      "2022-05-24": 25
     }
   },
   {
@@ -80,11 +79,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.14%",
-    "time": 631,
-    "timeDay": 883,
-    "timeWeek": 801,
-    "timeMonth": 732,
-    "timeYear": 631,
+    "time": 632,
+    "timeDay": 862,
+    "timeWeek": 803,
+    "timeMonth": 735,
+    "timeYear": 632,
     "dailyMinutesDown": {
       "2022-12-02": 24,
       "2022-12-01": 1440,
@@ -119,16 +118,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1035,
-    "timeDay": 1629,
-    "timeWeek": 1529,
-    "timeMonth": 1508,
+    "time": 1036,
+    "timeDay": 1820,
+    "timeWeek": 1568,
+    "timeMonth": 1521,
     "timeYear": 922,
     "dailyMinutesDown": {
       "2023-03-02": 192,
       "2022-05-12": 24,
-      "2022-05-05": 21,
-      "2022-05-04": 73
+      "2022-05-05": 21
     }
   },
   {
@@ -143,9 +141,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 477,
-    "timeDay": 552,
-    "timeWeek": 499,
-    "timeMonth": 497,
+    "timeDay": 557,
+    "timeWeek": 501,
+    "timeMonth": 499,
     "timeYear": 477,
     "dailyMinutesDown": {
       "2023-03-06": 41,
@@ -160,18 +158,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/polarlotto.com.ico",
     "slug": "polar-lotto",
     "status": "up",
-    "uptime": "95.90%",
-    "uptimeDay": "97.01%",
-    "uptimeWeek": "95.90%",
-    "uptimeMonth": "95.90%",
-    "uptimeYear": "95.90%",
-    "time": 5679,
-    "timeDay": 5858,
-    "timeWeek": 5679,
-    "timeMonth": 5679,
-    "timeYear": 5679,
+    "uptime": "96.85%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "96.85%",
+    "uptimeMonth": "96.85%",
+    "uptimeYear": "96.85%",
+    "time": 5452,
+    "timeDay": 6277,
+    "timeWeek": 5452,
+    "timeMonth": 5452,
+    "timeYear": 5452,
     "dailyMinutesDown": {
-      "2023-05-03": 44,
+      "2023-05-03": 39,
       "2023-05-02": 28
     }
   }
