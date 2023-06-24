@@ -25,7 +25,9 @@ jobs:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
       - name: Fix bug
-        run: npm install && npm rebuild
+        uses: upptime/uptime-monitor@v1.29.0
+        with:
+          command: "npm install && npm rebuild"
       - name: Check endpoint status
         uses: upptime/uptime-monitor@v1.29.0
         with:
