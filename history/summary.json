@@ -67,18 +67,20 @@
     "url": "http://automanage.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/automanage.co.za.ico",
     "slug": "automanage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1283,
+    "time": 1285,
     "timeDay": 1465,
     "timeWeek": 1318,
     "timeMonth": 1405,
     "timeYear": 1454,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-11": 0
+    }
   },
   {
     "name": "Cleanpay",
