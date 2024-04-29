@@ -67,19 +67,19 @@
     "url": "http://automanage.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/automanage.co.za.ico",
     "slug": "automanage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1229,
+    "time": 1230,
     "timeDay": 1454,
     "timeWeek": 1497,
     "timeMonth": 1436,
     "timeYear": 1436,
     "dailyMinutesDown": {
-      "2024-04-29": 9
+      "2024-04-29": 0
     }
   },
   {
